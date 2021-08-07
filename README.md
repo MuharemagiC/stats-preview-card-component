@@ -43,11 +43,11 @@ Users should be able to:
 
 ### What I learned
 
-In this project I learned how to write responsive css, especially how to make images responsive. Second with this project I started learning and using semantic HTML.
+In this project I learned how to write responsive css, especially how to make responsive images. Secondly, with this project I started learning and using semantic HTML.
 
 ### Continued development
 
-After this project I will focus my skills on front-end development technologies like javascript, reactJs, redux, typescript, etc..
+After this project, I will focus my skills on front-end development technologies like javascript, reactJs, redux, typescript, etc..
 
 ## Author
 
